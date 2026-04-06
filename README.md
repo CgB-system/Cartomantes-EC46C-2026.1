@@ -13,11 +13,11 @@ Repositório dedicado à disciplina de Desenvolvimento Ágil, do curso de Engenh
 
 | Nome            | RA        |      GitHub      |
 |-----------------|-----------|------------------|
-| Nome 1          | RA 1      | [GitHub](<link>) |
-| Nome 2          | RA 2      | [GitHub](<link>) |
-| Nome 3          | RA 3      | [GitHub](<link>) |
-| Nome 4          | RA 4      | [GitHub](<link>) |
-| Nome 5          | RA 5      | [GitHub](<link>) |
+| Andre Luiz Goncalves da Silva Teixeira          | 2564289      | [GitHub](<link>) |
+| Carlos Gabriel Baratieri          | 2706598      | [GitHub](<link>) |
+| Emily Vitorya de Moura          | 2575337      | [GitHub](<link>) |
+| Gustavo de Oliveira Gracionali          | 2618052      | [GitHub](<link>) |
+| Pedro Henrique Paludetto           | 2649063      | [GitHub](<link>) |
 
 ## Descrição do Projeto
 O foco deste projeto é a criação de um sistema de geração de cartas, tendo como público-alvo pessoas de todas as idades.

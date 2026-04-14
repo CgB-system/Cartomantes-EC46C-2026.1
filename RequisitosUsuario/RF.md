@@ -12,5 +12,5 @@ A Tabela 1, tem como função, exibir todo os Requisitos Funcionais (RF) present
 | RF08 | O sistema deve exibir mensagens de erro em caso de credenciais inválidas.               | Média      | RF05                    |
 | RF09 | O sistema deve manter a sessão ativa enquanto o usuário estiver autenticado.            | Média      | RF04, RF05              |
 
-**Tabela 1:** Requisitos Funcionais do sistema de autenticação.
+**Tabela 1:** Requisitos Funcionais.
 

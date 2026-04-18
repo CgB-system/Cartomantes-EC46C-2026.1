@@ -48,7 +48,8 @@
 <table align="center">
 <tr><th align="center">Categoria</th><th align="center">Tecnologias</th></tr>
 <tr><td align="center"><b>Back-End</b></td><td align="center"></td></tr>
-<tr><td align="center"><b>Front-End</b></td><td align="center"></td></tr>
+<tr><td align="center"><b>Front-End</b></td><td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50"/></td></tr>
+<tr><td align="center"><b>Docs & VCS</b></td><td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/><img src="https://skillicons.dev/icons?i=github" width="50"/><img src="https://skillicons.dev/icons?i=md" width="50"/></td></tr>
 </table>
 </details>
 

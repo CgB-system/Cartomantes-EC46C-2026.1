@@ -1,14 +1,16 @@
-# Cartomentes-EC46C-2026.1
-Repositório dedicado à disciplina de Desenvolvimento Ágil, do curso de Engenharia de Computação da Universidade Tecnológica Federal do Paraná, em Cornélio Procópio.
+![](https://capsule-render.vercel.app/api?type=waving&height=120&color=5d2e8c&reversal=false&fontAlignY=30&textBg=false&animation=fadeIn&fontSize=50&fontColor=fee697)
 
-<!-- <p align="center">
-  <img src="" alt="Logo" width="200"/>
-</p> -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&pause=1000&color=FEE697&width=435&lines=Seja+bem-vindo!!!;Reposit%C3%B3rio+Cartomentes+%3A)" />
+  </a>
+</p>
 
-## Disciplina
-**Desenvolvimento Ágil**  
-**EC46C - 2026.1**
+> [!IMPORTANT]
+> Repositório dedicado à disciplina de Desenvolvimento Ágil (EC46C - 2026.1) do curso de Engenharia de Computação da Universidade Tecnológica Federal do Paraná, em Cornélio Procópio! Nome do projeto: Cartomentes-EC46C-2026.1
 
+## Descrição do Projeto
+O foco deste projeto é a criação de um sistema de criação e geração de cartas, tendo como público-alvo pessoas de todas as idades que possuam gosto pelo poder das cartas!!!
 
 ## Integrantes
 
@@ -20,11 +22,11 @@ Repositório dedicado à disciplina de Desenvolvimento Ágil, do curso de Engenh
 | Gustavo de Oliveira Gracionali          | 2618052      | [GitHub](https://github.com/GustavoGracionali) |
 | Pedro Henrique Paludetto           | 2649063      | [GitHub](https://github.com/phpaludetto) |
 
-## Descrição do Projeto
-O foco deste projeto é a criação de um sistema de geração de cartas, tendo como público-alvo pessoas de todas as idades.
 
 ## Estrutura do Repositório
 - 📁 [Prototipação](Prototipacao) 
 - 📁 [Requisitos de Usuário](RequisitosSistema)  
 - 📁 [Requisitos de Sistema](RequisitosUsuario)
 
+
+![](https://capsule-render.vercel.app/api?type=waving&height=120&color=5d2e8c&reversal=false&fontAlignY=30&textBg=false&animation=fadeIn&fontSize=50&fontColor=fee697&section=footer)

@@ -8,7 +8,7 @@
 
 
 > [!NOTE]
->  O objetivo desta pasta raiz é organizar todas as atividades relacionadas aos requisitos do usuário, incluindo requisitos funcionais, não funcionais, histórias de usuário e documentos associados.
+>  O objetivo desta pasta raiz é organizar todas as atividades relacionadas aos requisitos do usuário.
 
 ## Estrutura do Repositório
 - 📁 [História de Usuário](HistoriasUsuario) 

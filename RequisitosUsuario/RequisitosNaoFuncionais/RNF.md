@@ -1,7 +1,7 @@
 
 ## 1. Requisitos Não Funcionais
 
-A Tabela 2, tem como função, exibir todo os Requisitos Não Funcionais (RNF) presentes nos componentes de Login do sistema.
+A Tabela 2, tem como função, exibir todo os Requisitos Não Funcionais (RNF) presentes nos componentes de login do sistema.
 
 | ID   | Requisito                                                                 | Categoria        |
 |------|---------------------------------------------------------------------------|------------------|

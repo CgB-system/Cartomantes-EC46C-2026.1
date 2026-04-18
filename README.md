@@ -16,7 +16,9 @@
 ---
 
 ## Descrição do Projeto
-O foco deste projeto é a criação de um sistema de criação e geração de cartas, tendo como público-alvo pessoas de todas as idades que possuam gosto pelo poder das cartas!!!
+
+> [!NOTE]
+>O foco deste projeto é a criação de um sistema de criação e geração de cartas, tendo como público-alvo pessoas de todas as idades que possuam gosto pelo poder das cartas!!!
 
 ---
 

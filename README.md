@@ -14,15 +14,19 @@
 ## Descrição do Projeto
 O foco deste projeto é a criação de um sistema de criação e geração de cartas, tendo como público-alvo pessoas de todas as idades que possuam gosto pelo poder das cartas!!!
 
-## Integrantes
-
-| Nome            | RA        |      GitHub      |
-|-----------------|-----------|------------------|
-| Andre Luiz Goncalves da Silva Teixeira          | 2564289      | [GitHub](https://github.com/decosawa) |
-| Carlos Gabriel Baratieri          | 2706598      | [GitHub](https://github.com/CgB-system) |
-| Emily Vitorya de Moura          | 2575337      | [GitHub](https://github.com/Emymoura) |
-| Gustavo de Oliveira Gracionali          | 2618052      | [GitHub](https://github.com/GustavoGracionali) |
-| Pedro Henrique Paludetto           | 2649063      | [GitHub](https://github.com/phpaludetto) |
+<p align="center"><table align="center"><tr><td>
+<h1>Integrantes</h1>
+<table>
+<tr><th>Nome</th><th>RA</th><th>GitHub</th></tr>
+<tr><td>Andre Luiz Goncalves da Silva Teixeira</td><td>2564289</td><td><a href="https://github.com/decosawa">GitHub</a></td></tr>
+<tr><td>Carlos Gabriel Baratieri</td><td>2706598</td><td><a href="https://github.com/CgB-system">GitHub</a></td></tr>
+<tr><td>Emily Vitorya de Moura</td><td>2575337</td><td><a href="https://github.com/Emymoura">GitHub</a></td></tr>
+<tr><td>Gustavo de Oliveira Gracionali</td><td>2618052</td><td><a href="https://github.com/GustavoGracionali">GitHub</a></td></tr>
+<tr><td>Pedro Henrique Paludetto</td><td>2649063</td><td><a href="https://github.com/phpaludetto">GitHub</a></td></tr>
+</table>
+</td><td align="center">
+<img src="https://i.pinimg.com/originals/a7/61/b1/a761b11aeb1fa33d35d94fcd84923005.gif" width="420"/>
+</td></tr></table></p>
 
 
 ## Estrutura do Repositório

@@ -39,9 +39,9 @@
 ---
 
 ## Estrutura do Repositório
-- 📁 [Prototipação](Prototipacao) 
-- 📁 [Requisitos de Usuário](RequisitosUsuario)
-- 📁 [Requisitos de Sistema](RequisitosSistema)  
+- 📁 [Prototipação](docs/Prototipacao) 
+- 📁 [Requisitos de Usuário](docs/RequisitosUsuario)
+- 📁 [Requisitos de Sistema](docs/RequisitosSistema)
 
 <details>
 <summary><b><code>Tecnologias Utilizadas</code></b></summary>

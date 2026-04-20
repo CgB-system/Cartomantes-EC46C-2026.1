@@ -18,4 +18,4 @@ A Tabela 3 a seguir contém as Histórias de Usuário elicitadas.
 
 - [🏡 Voltar para o início](https://github.com/CgB-system/Cartomentes-EC46C-2026.1)
 
-- [📄 Prompt de Histórias de Usuário](../Prompt-Historias-Usuarios.docx.pdf)
+- [📄 Prompt de Histórias de Usuário (PDF)](../Prompt-Historias-Usuarios.docx.pdf)

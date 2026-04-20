@@ -14,6 +14,8 @@ A Tabela 3 a seguir contém as Histórias de Usuário elicitadas.
 | US07 | Como criador de baralhos, eu quero duplicar uma carta existente para criar variações rapidamente. | 1. Deve existir opção "Duplicar".<br>2. A cópia deve herdar todos os dados da original. | Média | - | 3 |
 | US08 | Como membro da comunidade geek, eu quero compartilhar o link da minha carta para mostrar para amigos. | 1. O sistema deve gerar um link público único.<br>2. Deve haver botões de compartilhamento. | Média | - | 2 |
 
-[⬅️ Voltar para Requisitos de Usuário](../README.md)
+- [⬅️ Voltar para Requisitos de Usuário](../README.md)
 
-[Voltar para o início](https://github.com/CgB-system/Cartomentes-EC46C-2026.1)
+- [🏡 Voltar para o início](https://github.com/CgB-system/Cartomentes-EC46C-2026.1)
+
+- [📄 Prompt de Histórias de Usuário](../Prompt-Historias-Usuarios.docx.pdf)

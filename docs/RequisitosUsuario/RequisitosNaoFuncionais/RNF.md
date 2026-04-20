@@ -11,6 +11,6 @@ A Tabela 2, tem como função, exibir todo os Requisitos Não Funcionais (RNF) p
 
 **Tabela 2:** Requisitos Não Funcionais do Sistema de Login.
 
-[⬅️ Voltar para Requisitos de Usuário](../README.md)
+- [⬅️ Voltar para Requisitos de Usuário](../README.md)
 
-[Voltar para o início](https://github.com/CgB-system/Cartomentes-EC46C-2026.1)
+- [🏡 Voltar para o início](https://github.com/CgB-system/Cartomentes-EC46C-2026.1)

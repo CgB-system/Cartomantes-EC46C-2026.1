@@ -18,7 +18,7 @@
 ## Descrição do Projeto
 
 > [!NOTE]
->O foco deste projeto é a criação de um sistema de criação e geração de cartas, tendo como público-alvo pessoas de todas as idades que possuam gosto pelo poder das cartas!!!
+> Sistema para criação e gerenciamento de cartas personalizadas, permitindo ao usuário gerar, editar e organizar conteúdos de forma dinâmica.
 
 ---
 
